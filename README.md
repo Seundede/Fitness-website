@@ -1,6 +1,6 @@
 FITNESS WEBSITE
 
-This is a fitness application for booking appointments 
+This is a fitness application where varieties of gym services , gym membership plans, private training and appointment booking canbe done.
 
 
 DEMO
